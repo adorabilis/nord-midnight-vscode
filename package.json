@@ -1,0 +1,33 @@
+{
+    "name": "nord-midnight",
+    "displayName": "Nord Midnight",
+    "description": "A darker version of Nord theme with better contrast",
+    "publisher": "adorabilis",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nord Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-midnight.json"
+            }
+        ]
+    },
+    "repository": {
+        "url": "https://github.com/adorabilis/nord-midnight-vscode"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "clean",
+        "subtle",
+        "dark",
+        "night",
+        "minimal"
+    ]
+}
